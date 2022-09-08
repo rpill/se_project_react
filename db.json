@@ -1,1 +1,40 @@
-
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Cap",
+      "weather": "hot",
+      "imageUrl": "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/wtwr-project/cap.jpg?etag=cf33d6ac81f0613c13a5c403fc7c62da"
+    },
+    {
+      "id": 1,
+      "name": "Hoodie",
+      "weather": "warm",
+      "imageUrl": "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/wtwr-project/hoodie.jpg?etag=1f3d3c1a154f7a9e07bd78a8f6952d9e"
+    },
+    {
+      "id": 2,
+      "name": "Jacket",
+      "weather": "cold",
+      "imageUrl": "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/wtwr-project/jacket.jpg?etag=e2e17fc1352115d2e59511b380fccae9"
+    },
+    {
+      "id": 3,
+      "name": "Sneakers",
+      "weather": "cold",
+      "imageUrl": "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/wtwr-project/sneakers.jpg?etag=56322fb0e0f745439c1d344c253c6855"
+    },
+    {
+      "name": "Test new",
+      "weather": "cold",
+      "imageUrl": "https://terracloudx.com/wp-content/uploads/2019/01/hoodie-with-zipper-2.jpg",
+      "id": 5
+    },
+    {
+      "name": "New coat",
+      "weather": "cold",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/LjecRSc3LVNrbvMe9kGXrQ.jpg",
+      "id": 6
+    }
+  ]
+}
